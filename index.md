@@ -58,6 +58,7 @@ sections:
       url: 'https://virtuallycreative.ca/contact'
       style: secondary
       arrow: true
+    image: images/curious-velociraptor.jpg
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
