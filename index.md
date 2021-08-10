@@ -44,7 +44,7 @@ sections:
           pricing that scales with our business.
       - author:
           name: AMANDA DIAS
-          location: 'TORONTO, '
+          location: Ces't Beau Luxury Events
         text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
           recruits.
