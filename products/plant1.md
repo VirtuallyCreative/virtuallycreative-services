@@ -4,7 +4,7 @@ id: '1'
 price: 30/mo
 title: Solopreneur
 description: "A Professional one-page website made to promote any business or service. Ideal for businesses or individuals that have just started out or provide a straightforward service.\_Solopreneur works well for Freelancers, Independents and snazzy new Businesses."
-default_thumbnail_image: images/plant1.jpg
+default_thumbnail_image: images/soloprenure.png
 default_original_image: images/soloprenure.png
 featured: true
 order: 1
