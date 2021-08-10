@@ -17,7 +17,7 @@ sections:
     section_id: promotion_section
     title: Looking for a custom build?
     subtitle: 'we do those, too.'
-    image: images/promo.jpg
+    image: images/services-cta-footer.jpg
     background_image: /images/leaf.svg
     cta:
       title: Let's Talk
