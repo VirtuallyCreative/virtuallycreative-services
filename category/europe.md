@@ -3,7 +3,7 @@ title: Marketing & SEO
 layout: category
 order: 3
 seo:
-  title: Plants from Europe
+  title: Basic SEO
   description: This is the store page
   extra:
     - name: 'og:type'
