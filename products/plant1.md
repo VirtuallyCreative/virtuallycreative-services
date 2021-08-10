@@ -10,7 +10,7 @@ featured: true
 order: 1
 category: category/bigplants.md
 seo:
-  title: SoloPreneur - Subscription
+  title: Solopreneur - Subscription
   description: >-
     A professional one-pager website made to promote any business or service.
     Ideal for individuals or small business just starting out.
