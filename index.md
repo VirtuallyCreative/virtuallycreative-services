@@ -39,9 +39,7 @@ sections:
       - author:
           name: CHRIS ROMANO
           location: 'TORONTO, CA'
-        text: >-
-          We've used Virtually(Creative) to help grow our business with great
-          hosting and web development.
+        text: 'We''ve worked with Al for many years to '
       - author:
           name: Major Payne
           location: 'VA, USA'
