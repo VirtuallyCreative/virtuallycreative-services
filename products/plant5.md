@@ -4,7 +4,7 @@ id: '5'
 price: 55/mo
 title: Entrepreneur
 description: "Entrepreneur five-page websites are perfect for small to medium-sized businesses and freelancers, that want to provide standard services to their\_customers.\_Ideal for anyone in the Art & Beauty, Design, Construction and Legal industries."
-default_thumbnail_image: images/plant5.jpg
+default_thumbnail_image: images/entrepreneur.png
 default_original_image: images/entrepreneur.png
 featured: true
 order: 5
