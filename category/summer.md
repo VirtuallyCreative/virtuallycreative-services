@@ -1,5 +1,5 @@
 ---
-title: Summer plants
+title: Additional Items
 layout: category
 order: 4
 seo:
