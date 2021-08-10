@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '2'
-price: '99.00'
+price: '550.00'
 title: Solopreneur
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/plant2.jpg
