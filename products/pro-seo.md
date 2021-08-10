@@ -1,6 +1,6 @@
 ---
 id: pro-seo
-title: lorem-ipsum
+title: Professional SEO
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
