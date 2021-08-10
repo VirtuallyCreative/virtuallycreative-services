@@ -29,7 +29,7 @@
         },
         {
             "title": "Home",
-            "url": "#",
+            "url": "https://virtuallycreative.ca",
             "style": "primary",
             "arrow": false,
             "type": "action"
