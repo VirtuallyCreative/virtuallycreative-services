@@ -7,7 +7,7 @@ description: >-
   Solopreneur works well for Freelancers, Independents and snazzy new
   Businesses.
 default_thumbnail_image: images/plant2.jpg
-default_original_image: images/plant2-lg.jpg
+default_original_image: images/soloprenure.png
 order: 2
 category: category/cactuses.md
 seo:
