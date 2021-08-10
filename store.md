@@ -16,7 +16,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Looking for a custom build?
-    subtitle: from $149.99
+    subtitle: 'we do those, too.'
     image: images/promo.jpg
     background_image: /images/leaf.svg
     cta:
