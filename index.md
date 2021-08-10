@@ -34,7 +34,7 @@ sections:
       - category/cactuses.md
   - type: testimonials_section
     section_id: testimonials_section
-    title: Happy Client Feedback
+    title: Testimonials
     testimonials:
       - author:
           name: CHRIS ROMANO
