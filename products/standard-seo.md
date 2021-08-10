@@ -1,6 +1,6 @@
 ---
 id: standard-seo
-title: lorem-ipsum
+title: Standard SEO
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
