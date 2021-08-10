@@ -52,7 +52,6 @@ sections:
     section_id: promotion_section
     title: 'Get the site you always wanted, for less'
     subtitle: from $30/mo
-    image: images/self-managed-hosting-vs-managed-hosting-header-1024x418.jpg
     background_image: images/leaf.svg
     cta:
       title: Let's Chat
