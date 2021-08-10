@@ -20,7 +20,7 @@
             "type": "action"
         },
         {
-            "title": "Services",
+            "title": "All Services",
             "url": "/store",
             "style": "link"
         },
