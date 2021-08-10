@@ -4,7 +4,7 @@ layout: category
 order: 3
 seo:
   title: Basic SEO
-  description: This is the store page
+  description: 'Set baselines, gather metrics, form the plan.'
   extra:
     - name: 'og:type'
       value: website
