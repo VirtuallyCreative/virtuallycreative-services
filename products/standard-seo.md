@@ -7,7 +7,7 @@ description: >-
   reports with insight analysis to include additional specialty or product
   check-out flows.
 price: 640/mo
-order: 0
+order: 1
 featured: false
 seo:
   title: ''
