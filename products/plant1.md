@@ -39,7 +39,7 @@ seo:
         A professional one-pager website made to promote any business or
         service. Ideal for individuals or small business just starting out.
     - name: 'twitter:image'
-      value: images/plant1-lg.jpg
+      value: images/soloprenure.png
       relativeUrl: true
 ---
 
