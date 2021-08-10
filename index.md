@@ -51,7 +51,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: 'Get the site you always wanted, for less'
-    subtitle: from $30/mo
+    subtitle: starting @ $30/mo
     background_image: images/leaf.svg
     cta:
       title: Let's Chat
