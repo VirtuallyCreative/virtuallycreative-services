@@ -56,7 +56,7 @@ sections:
     background_image: images/leaf.svg
     cta:
       title: Let's Chat
-      url: /store
+      url: 'https://virtuallycreative.ca/contact'
       style: secondary
       arrow: true
 seo:
