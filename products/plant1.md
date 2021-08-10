@@ -22,7 +22,9 @@ seo:
       value: Solopreneur - Subscription
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: >-
+        A professional one-pager website made to promote any business or
+        service. Ideal for individuals or small business just starting out.
       keyName: property
     - name: 'og:image'
       value: images/soloprenure.png
