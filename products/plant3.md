@@ -3,7 +3,7 @@ layout: product
 id: '3'
 price: '2750'
 title: Shopapreneur
-description: A custom eCommerce websites are built using WooCommerce.
+description: A custom eCommerce website built using WooCommerce.
 default_thumbnail_image: images/plant3.jpg
 default_original_image: images/plant3-lg.jpg
 featured: true
