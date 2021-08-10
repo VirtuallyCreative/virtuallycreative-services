@@ -43,7 +43,7 @@ sections:
           We've worked with Al for many years and have always loved his fair
           pricing that scales with our business.
       - author:
-          name: Major Payne
+          name: AMANDA DIAS
           location: 'VA, USA'
         text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
