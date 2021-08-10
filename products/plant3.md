@@ -5,7 +5,7 @@ price: '2750'
 title: Shopapreneur
 description: A custom eCommerce website built using WooCommerce.
 default_thumbnail_image: images/plant3.jpg
-default_original_image: images/plant3-lg.jpg
+default_original_image: images/shopapreneur.png
 featured: true
 order: 3
 category: category/cactuses.md
