@@ -8,7 +8,7 @@ description: >-
   pages critical for the websites' success.
 price: 950/mo
 order: 0
-featured: false
+featured: true
 seo:
   title: ''
   description: ''
