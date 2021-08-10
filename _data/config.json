@@ -13,7 +13,7 @@
     "palette": "cyan",
     "main_menu": [
         {
-            "title": "Home",
+            "title": "Main",
             "url": "https://virtuallycreative.ca",
             "style": "primary",
             "arrow": false,
