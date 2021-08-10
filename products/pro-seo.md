@@ -6,7 +6,7 @@ description: >-
   Basic & Standard Packages, the Pro Site Tune-Up package expands the number of
   custom reports with insight analysis to include all high-value, user important
   pages critical for the websites' success.
-price: lorem-ipsum
+price: 950/mo
 order: 0
 featured: false
 seo:
