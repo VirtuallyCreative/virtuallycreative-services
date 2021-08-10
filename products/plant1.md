@@ -3,10 +3,7 @@ layout: product
 id: '1'
 price: 30/mo
 title: Solopreneur
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
+description: "A Professional one-page website made to promote any business or service. Ideal for businesses or individuals that have just started out or provide a straightforward service.\_Solopreneur works well for Freelancers, Independents and snazzy new Businesses."
 default_thumbnail_image: images/plant1.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
