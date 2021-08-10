@@ -7,11 +7,11 @@ sections:
     section_id: hero_section
     background_image_opacity: 65
     content: >
-      # Online Services Portal
+      # Services Portal
 
 
-      The online shop to order Virtually(Creative) services or modify ongoing
-      subscriptions.
+      Order Virtually(Creative) services or modify ongoing subscriptions using
+      our services portal.
     actions:
       - title: See all items
         url: /store
