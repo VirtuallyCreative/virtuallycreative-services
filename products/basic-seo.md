@@ -21,9 +21,10 @@ default_original_image: images/seo-basic.svg
 default_thumbnail_image: images/seo-basic.svg
 category: category/europe.md
 ---
-## Lorem ipsum
+## **Set baselines, gather metrics, form the plan.**
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Building a solid base, the Basic Package sets your WordPress site up for success by allowing it to begin learning about the users that use and interact with your site on a daily basis. Reporting back the good stuff, we use this data to make informed decisions on goal optimization and user experience strategy.
 
-- Lorem ipsum
-- dolor sit amet
+*   Branded Data Studio Dashboard Setup
+
+*   Main Contact Funnel Report /w Analysis
