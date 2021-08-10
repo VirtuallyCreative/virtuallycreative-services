@@ -52,7 +52,7 @@ sections:
     section_id: promotion_section
     title: 'Get the site you always wanted, for less'
     subtitle: starting at $30/mo
-    background_image: images/leaf.svg
+    background_image: images/arrows-light-right-cta-bg.svg
     cta:
       title: Let's Chat
       url: 'https://virtuallycreative.ca/contact'
