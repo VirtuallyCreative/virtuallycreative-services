@@ -40,9 +40,8 @@ sections:
           name: CHRIS ROMANO
           location: 'TORONTO, CA'
         text: >-
-          I didn't know the Snipcart guys were into herbs as well! How beautiful
-          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
-          store using this for sure.
+          We've used Virtually(Creative) to help grow our business with great
+          hosting and web development.
       - author:
           name: Major Payne
           location: 'VA, USA'
