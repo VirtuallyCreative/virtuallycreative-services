@@ -41,7 +41,7 @@ sections:
           location: 'TORONTO, CA'
         text: >-
           We've worked with Al for many years and have always loved his fair
-          pricing that scales with our business
+          pricing that scales with our business.
       - author:
           name: Major Payne
           location: 'VA, USA'
