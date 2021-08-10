@@ -25,7 +25,7 @@ seo:
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
       keyName: property
     - name: 'og:image'
-      value: images/plant1-lg.jpg
+      value: images/soloprenure.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
