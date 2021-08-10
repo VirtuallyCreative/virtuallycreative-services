@@ -25,11 +25,6 @@
             "type": "action"
         },
         {
-            "title": "About",
-            "url": "https://virtuallycreative.ca/about",
-            "style": "link"
-        },
-        {
             "title": "Contact",
             "url": "https://virtuallycreative.ca/contact",
             "style": "link"
