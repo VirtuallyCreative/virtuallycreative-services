@@ -18,7 +18,7 @@
             "style": "link"
         },
         {
-            "title": "back(home)",
+            "title": "return(home)",
             "url": "https://virtuallycreative.ca",
             "style": "primary",
             "arrow": false,
