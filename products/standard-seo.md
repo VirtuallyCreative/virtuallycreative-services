@@ -20,9 +20,12 @@ default_original_image: images/seo-standard.svg
 default_thumbnail_image: images/seo-standard.svg
 category: category/europe.md
 ---
-## Lorem ipsum
+## **Focus your funnels and re-align goals.**
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Building upon the base from the Basic Package, the Standard Site Tune-Up package expands the number of custom reports with insight analysis to include additional specialty or product check-out flows.
 
-- Lorem ipsum
-- dolor sit amet
+*   Data Dashboard Visualization Updates
+
+*   Main Contact Funnel Report /w Analysis
+
+*   WooCommerce checkout flow Reports /w Analysis
