@@ -47,7 +47,7 @@ sections:
           location: Ces't Beau Luxury Events
         text: >-
           Al was able to help me scale a unique product idea on my site quickly
-          and easily
+          and easily letting me focus on my business 
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
