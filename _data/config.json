@@ -20,7 +20,7 @@
         {
             "title": "Main",
             "url": "https://virtuallycreative.ca",
-            "style": "primary",
+            "style": "secondary",
             "arrow": false,
             "type": "action"
         },
