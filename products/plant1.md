@@ -11,7 +11,9 @@ order: 1
 category: category/bigplants.md
 seo:
   title: SoloPreneur - Subscription
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  description: >-
+    A professional one-pager website made to promote any business or service.
+    Ideal for individuals or small business just starting out.
   extra:
     - name: 'og:type'
       value: website
