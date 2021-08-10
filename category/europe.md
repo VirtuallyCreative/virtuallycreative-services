@@ -1,5 +1,5 @@
 ---
-title: Plants from Europe
+title: Marketing & SEO
 layout: category
 order: 3
 seo:
