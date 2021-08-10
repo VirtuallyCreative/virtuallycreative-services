@@ -13,7 +13,7 @@ sections:
       Order Virtually(Creative) services or modify ongoing subscriptions using
       our services portal.
     actions:
-      - title: See all items
+      - title: See all services
         url: /store
         arrow: true
         style: primary
