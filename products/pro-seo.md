@@ -20,9 +20,14 @@ category: category/europe.md
 default_original_image: images/seo-pro.svg
 default_thumbnail_image: images/seo-pro.svg
 ---
-## Lorem ipsum
+## **Take your WordPress SEO to another level.**
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Building upon the base from the Basic & Standard Packages, the Pro Site Tune-Up package expands the number of custom reports with insight analysis to include all high-value, user important pages critical for the websites' success.
 
-- Lorem ipsum
-- dolor sit amet
+*   Data Dashboard Visualisation Updates
+
+*   10 Custom Reports /w Insight Analysis
+
+*   Premium Plugin Configuration Optimisation
+
+*   1-hr A-La-Carte Consulting Included
