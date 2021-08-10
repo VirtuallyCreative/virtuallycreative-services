@@ -1,7 +1,12 @@
 ---
 id: basic-seo
 title: Basic
-description: lorem-ipsum
+description: >-
+  Set baselines, gather metrics, form the plan.  Building a solid base, the
+  Basic Package sets your WordPress site up for success by allowing it to begin
+  learning about the users that use and interact with your site on a daily
+  basis. Reporting back the good stuff, we use this data to make informed
+  decisions on goal optimization and user experience strategy.
 price: lorem-ipsum
 order: 0
 featured: false
