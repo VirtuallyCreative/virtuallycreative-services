@@ -18,7 +18,7 @@ sections:
     title: Looking for a custom build?
     subtitle: 'we do those, too.'
     image: images/services-cta-footer.jpg
-    background_image: /images/leaf.svg
+    background_image: images/arrows-grey-right.svg
     cta:
       title: Let's Talk
       url: 'https://virtuallycreative.ca/contact'
