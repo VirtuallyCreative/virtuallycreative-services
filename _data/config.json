@@ -23,11 +23,6 @@
             "style": "primary",
             "arrow": false,
             "type": "action"
-        },
-        {
-            "title": "Contact",
-            "url": "https://virtuallycreative.ca/contact",
-            "style": "link"
         }
     ],
     "domain": "https://services.virtuallycreative.ca"
