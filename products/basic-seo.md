@@ -1,6 +1,6 @@
 ---
 id: basic-seo
-title: lorem-ipsum
+title: Basic
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
