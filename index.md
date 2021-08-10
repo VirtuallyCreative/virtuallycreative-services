@@ -50,7 +50,7 @@ sections:
           and easily letting me focus on my business.
   - type: promotion_section
     section_id: promotion_section
-    title: Get the site you always wanted
+    title: 'Get the site you always wanted, for less'
     subtitle: from $149.99
     image: images/promo.jpg
     background_image: images/leaf.svg
