@@ -18,6 +18,7 @@ seo:
 layout: product
 default_original_image: images/seo-standard.svg
 default_thumbnail_image: images/seo-standard.svg
+category: category/europe.md
 ---
 ## Lorem ipsum
 
