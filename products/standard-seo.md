@@ -6,7 +6,7 @@ description: >-
   Package, the Standard Site Tune-Up package expands the number of custom
   reports with insight analysis to include additional specialty or product
   check-out flows.
-price: lorem-ipsum
+price: 640/mo
 order: 0
 featured: false
 seo:
