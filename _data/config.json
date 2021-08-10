@@ -21,7 +21,7 @@
             "title": "Main",
             "url": "https://virtuallycreative.ca",
             "style": "primary",
-            "arrow": true,
+            "arrow": false,
             "type": "action"
         },
         {
