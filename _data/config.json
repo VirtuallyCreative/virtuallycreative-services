@@ -26,6 +26,13 @@
             "title": "Contact",
             "url": "https://virtuallycreative.ca/contact",
             "style": "link"
+        },
+        {
+            "title": "lorem-ipsum",
+            "url": "#",
+            "style": "primary",
+            "arrow": false,
+            "type": "action"
         }
     ],
     "domain": "https://services.virtuallycreative.ca"
