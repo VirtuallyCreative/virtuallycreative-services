@@ -38,7 +38,7 @@ sections:
     testimonials:
       - author:
           name: CHRIS ROMANO
-          location: 'Colorado, USA'
+          location: 'TORONTO, CA'
         text: >-
           I didn't know the Snipcart guys were into herbs as well! How beautiful
           is that Planty theme. I'm going to launch a killer JAMstack e-commerce
