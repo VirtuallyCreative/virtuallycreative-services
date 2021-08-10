@@ -38,7 +38,7 @@ sections:
     testimonials:
       - author:
           name: CHRIS ROMANO
-          location: 'TORONTO, CA'
+          location: Bongo & B Entertainment
         text: >-
           We've worked with Al for many years and have always loved his fair
           pricing that scales with our business.
