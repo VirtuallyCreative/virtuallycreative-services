@@ -21,7 +21,7 @@ sections:
     background_image: /images/leaf.svg
     cta:
       title: Let's Talk
-      url: /store
+      url: 'https://virtuallycreative.ca/contact'
       style: secondary
       arrow: true
 seo:
