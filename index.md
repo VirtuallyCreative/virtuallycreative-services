@@ -6,11 +6,12 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
+    content: >
+      # Online Services Portal
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+
+      The online shop to order Virtually(Creative) services or modify ongoing
+      subscriptions.
     actions:
       - title: See all items
         url: /store
