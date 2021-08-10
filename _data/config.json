@@ -13,7 +13,7 @@
     "palette": "cyan",
     "main_menu": [
         {
-            "title": "Store",
+            "title": "Services",
             "url": "/store",
             "style": "link"
         },
