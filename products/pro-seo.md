@@ -7,7 +7,7 @@ description: >-
   custom reports with insight analysis to include all high-value, user important
   pages critical for the websites' success.
 price: 950/mo
-order: 0
+order: 2
 featured: true
 seo:
   title: ''
