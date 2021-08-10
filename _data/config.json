@@ -13,16 +13,16 @@
     "palette": "cyan",
     "main_menu": [
         {
+            "title": "All Services",
+            "url": "/store",
+            "style": "link"
+        },
+        {
             "title": "Main",
             "url": "https://virtuallycreative.ca",
             "style": "primary",
             "arrow": false,
             "type": "action"
-        },
-        {
-            "title": "All Services",
-            "url": "/store",
-            "style": "link"
         },
         {
             "title": "About",
