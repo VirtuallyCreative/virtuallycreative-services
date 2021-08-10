@@ -55,7 +55,7 @@ sections:
     image: images/promo.jpg
     background_image: images/leaf.svg
     cta:
-      title: Discover
+      title: Let's Chat
       url: /store
       style: secondary
       arrow: true
