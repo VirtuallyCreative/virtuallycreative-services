@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Nulla suscipit
+      value: Solopreneur - Subscription
     - name: 'twitter:description'
       value: >-
         A professional one-pager website made to promote any business or
