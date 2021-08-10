@@ -1,5 +1,5 @@
 ---
-id: Basic SEO
+id: basic-seo
 title: lorem-ipsum
 description: lorem-ipsum
 price: lorem-ipsum
