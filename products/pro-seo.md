@@ -16,6 +16,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+category: category/europe.md
 ---
 ## Lorem ipsum
 
