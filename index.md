@@ -38,7 +38,7 @@ sections:
     testimonials:
       - author:
           name: CHRIS ROMANO
-          location: Bongo & B Entertainment
+          location: bongoandb.com
         text: >-
           We've worked with Al for many years and have always loved his fair
           pricing that scales with our business.
