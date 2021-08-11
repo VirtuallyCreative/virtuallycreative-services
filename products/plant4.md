@@ -5,7 +5,7 @@ price: '????'
 title: Bespokpreneur
 description: "If you have a unique vision or want to\_dream big\_– this is the way to go.\_Our Custom (bespoke) Websites are completely designed and developed based on your requirements. We work with you every step of the way to get that unique professional website that stands out from the crowd."
 default_thumbnail_image: images/bespokpreneur.png
-default_original_image: images/bespokpreneur.png
+default_original_image: images/bespokpreneur.jpg
 order: 4
 category: category/cactuses.md
 seo:
