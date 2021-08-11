@@ -19,6 +19,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
+default_original_image: images/seo-mrkt-strategic-standard.svg
 ---
 ## Lorem ipsum
 
