@@ -9,7 +9,7 @@ description: >-
   the most out of this package for your business and make sure we’re always
   aligned with your goals and expectations, so rest easy knowing we understand
   what you need and are just a call away as things change over time.
-price: lorem-ipsum
+price: 1450/mo
 order: 0
 featured: false
 seo:
