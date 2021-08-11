@@ -15,7 +15,7 @@ sections:
       - products/plant4.md
   - type: promotion_section
     section_id: promotion_section
-    title: Looking for a custom build?
+    title: Looking for bespoke development?
     subtitle: 'we do those, too.'
     image: images/services-cta-footer.jpg
     background_image: images/arrows-light-right-cta-bg.svg
