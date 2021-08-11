@@ -1,6 +1,6 @@
 ---
 id: biz-seo-pro
-title: Business P
+title: Business Pro
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
