@@ -53,7 +53,7 @@ sections:
     title: >-
       Don't get caught by surprise, get a free accessibility audit for your
       website!
-    subtitle: starting at $30/mo
+    subtitle: Simply book a time for your free audit.
     background_image: images/arrows-light-right-cta-bg.svg
     cta:
       title: Let's Chat
