@@ -20,6 +20,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 category: category/europe.md
+default_original_image: images/seo-mrkt-strategic-pro.svg
 ---
 ## Lorem ipsum
 
