@@ -21,6 +21,7 @@ seo:
 layout: product
 default_original_image: images/seo-mrkt-strategic-standard.svg
 default_thumbnail_image: images/seo-mrkt-strategic-standard.svg
+category: category/europe.md
 ---
 ## Lorem ipsum
 
