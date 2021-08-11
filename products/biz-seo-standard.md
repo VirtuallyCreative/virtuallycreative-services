@@ -1,6 +1,6 @@
 ---
 id: biz-seo-standard
-title: Biz Tier SEO - Standard
+title: Enterprise Standard
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
