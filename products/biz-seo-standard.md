@@ -23,9 +23,16 @@ default_original_image: images/seo-mrkt-strategic-standard.svg
 default_thumbnail_image: images/seo-mrkt-strategic-standard.svg
 category: category/europe.md
 ---
-## Lorem ipsum
+On top of the Tune-Up Pro is the Marketing Standard plan. A consolidated marketing package that emphasises a data-driven approach to strategy and a human touch to connect your brand with new potential customers.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+With a package like this, we include 2 hours each month to use as you see fit to get the most out of this package for your business and make sure we’re always aligned with your goals and expectations, so rest easy knowing we understand what you need and are just a call away as things change over time.
 
-- Lorem ipsum
-- dolor sit amet
+*   Everything in Tune-Up Pro Package
+
+*   Quarterly Marketing Strategy Alignment
+
+*   Semi-Annual Custom Campaigns
+
+*   Social Media Competition Deep Dive
+
+*   3-hrs total A-La-Carte Consulting Included
