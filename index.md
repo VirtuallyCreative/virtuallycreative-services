@@ -55,7 +55,7 @@ sections:
     background_image: images/arrows-light-right-cta-bg.svg
     cta:
       title: Let's Chat
-      url: 'https://virtuallycreative.ca/contact'
+      url: 'https://calendly.com/virtuallycreative'
       style: secondary
       arrow: true
     image: images/services-cta-footer.jpg
