@@ -17,7 +17,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 category: category/europe.md
-default_original_image: images/seo-pro.svg
+default_original_image: images/seo-pro.jpg
 default_thumbnail_image: images/seo-pro.svg
 ---
 ## **Take your WordPress SEO to another level.**
