@@ -1,5 +1,5 @@
 ---
-id: lorem-ipsum
+id: biz-seo-standard
 title: lorem-ipsum
 description: lorem-ipsum
 price: lorem-ipsum
