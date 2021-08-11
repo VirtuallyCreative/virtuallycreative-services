@@ -44,7 +44,7 @@ sections:
           pricing that scales with our business.
       - author:
           name: AMANDA DIAS
-          location: Ces't Beau Luxury Events
+          location: cestbeauevents.com
         text: >-
           Al was able to help me scale a unique product idea on my site quickly
           and easily letting me focus on my business.
