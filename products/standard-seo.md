@@ -16,7 +16,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
-default_original_image: images/seo-standard.svg
+default_original_image: images/seo-standard.jpg
 default_thumbnail_image: images/seo-standard.svg
 category: category/europe.md
 ---
