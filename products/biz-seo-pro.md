@@ -1,7 +1,14 @@
 ---
 id: biz-seo-pro
 title: Enterprise Pro
-description: lorem-ipsum
+description: >-
+  On top of the Tune-Up Pro is the Marketing Pro plan. It’s like having a
+  full-service agency handle your marketing alignment strategy across all
+  digital channels leveraging your website as the central source to focus
+  around.  With a package like this, we include 6 hours each month to use as you
+  see fit to get the most out of this package for your business and make sure
+  we’re always aligned with your goals and expectations, so rest easy knowing we
+  understand what you need and are just a call away as things change over time.
 price: lorem-ipsum
 order: 0
 featured: false
