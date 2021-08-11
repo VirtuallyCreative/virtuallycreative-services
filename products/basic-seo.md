@@ -1,6 +1,6 @@
 ---
 id: basic-seo
-title: Basic
+title: Basic SEO
 description: >-
   Set baselines, gather metrics, form the plan.  Building a solid base, the
   Basic Package sets your WordPress site up for success by allowing it to begin
