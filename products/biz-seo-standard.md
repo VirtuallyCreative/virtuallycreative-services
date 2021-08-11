@@ -1,7 +1,14 @@
 ---
 id: biz-seo-standard
 title: Enterprise Standard
-description: lorem-ipsum
+description: >-
+  On top of the Tune-Up Pro is the Marketing Standard plan. A consolidated
+  marketing package that emphasizes a data-driven approach to strategy and a
+  human touch to connect your brand with new potential customers.  With a
+  package like this, we include 2 hours each month to use as you see fit to get
+  the most out of this package for your business and make sure we’re always
+  aligned with your goals and expectations, so rest easy knowing we understand
+  what you need and are just a call away as things change over time.
 price: lorem-ipsum
 order: 0
 featured: false
