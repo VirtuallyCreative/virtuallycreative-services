@@ -16,7 +16,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Looking for bespoke development?
-    subtitle: 'we do those, too.'
+    subtitle: 'we do that, too.'
     image: images/services-cta-footer.jpg
     background_image: images/arrows-light-right-cta-bg.svg
     cta:
