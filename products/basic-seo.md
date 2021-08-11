@@ -18,7 +18,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_original_image: images/seo-basic.jpg
-default_thumbnail_image: images/seo-basic.svg
+default_thumbnail_image: images/seo-basic.jpg
 category: category/europe.md
 ---
 ## **Set baselines, gather metrics, form the plan.**
