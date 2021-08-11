@@ -50,7 +50,9 @@ sections:
           and easily letting me focus on my business.
   - type: promotion_section
     section_id: promotion_section
-    title: 'In a world full of stairs,let''s build some ramps'
+    title: >-
+      Don't get caught by surprise, get a free accessibility audit for your
+      website!
     subtitle: starting at $30/mo
     background_image: images/arrows-light-right-cta-bg.svg
     cta:
