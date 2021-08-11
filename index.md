@@ -50,9 +50,7 @@ sections:
           and easily letting me focus on my business.
   - type: promotion_section
     section_id: promotion_section
-    title: >-
-      Don't get caught by surprise, get a free accessibility audit for your
-      website!
+    title: Don't get caught by surprise! Free accessibility audit for your website!
     subtitle: Chat with an accessibility specialist now.
     background_image: images/arrows-light-right-cta-bg.svg
     cta:
