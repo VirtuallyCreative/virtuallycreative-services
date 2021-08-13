@@ -60,7 +60,7 @@ sections:
       arrow: true
     image: images/services-cta-footer.jpg
 seo:
-  title: Planty Theme
+  title: Services Portal - Virtually(Creative)
   description: The preview of the Planty theme
   extra:
     - name: 'og:type'
