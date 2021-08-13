@@ -77,7 +77,7 @@ seo:
         this online services portal.
       keyName: property
     - name: 'og:image'
-      value: images/header.jpg
+      value: images/services-cta-footer.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
