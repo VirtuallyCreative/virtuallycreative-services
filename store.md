@@ -10,6 +10,7 @@ sections:
     icon: true
     featured_products:
       - products/solopreneur-one.md
+      - products/entrepreneur-sub.md
   - type: promotion_section
     section_id: promotion_section
     title: Looking for bespoke development?
