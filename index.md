@@ -72,7 +72,9 @@ seo:
       value: Services Portal - Virtually(Creative)
       keyName: property
     - name: 'og:description'
-      value: The preview of the Planty theme
+      value: >-
+        Order Virtually(Creative) services or modify ongoing subscriptions using
+        this online services portal.
       keyName: property
     - name: 'og:image'
       value: images/header.jpg
