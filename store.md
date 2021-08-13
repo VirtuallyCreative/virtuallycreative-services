@@ -8,7 +8,8 @@ sections:
     section_id: featured_products_section
     title: Client Favourites
     icon: true
-    featured_products: []
+    featured_products:
+      - products/solopreneur-one.md
   - type: promotion_section
     section_id: promotion_section
     title: Looking for bespoke development?
