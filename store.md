@@ -9,7 +9,6 @@ sections:
     title: Client Favourites
     icon: true
     featured_products:
-      - products/plant3.md
       - products/plant5.md
       - products/plant4.md
   - type: promotion_section
