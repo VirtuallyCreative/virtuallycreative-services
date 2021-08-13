@@ -69,7 +69,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Planty Theme
+      value: Services Portal - Virtually(Creative)
       keyName: property
     - name: 'og:description'
       value: The preview of the Planty theme
