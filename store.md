@@ -8,8 +8,7 @@ sections:
     section_id: featured_products_section
     title: Client Favourites
     icon: true
-    featured_products:
-      - products/plant4.md
+    featured_products: []
   - type: promotion_section
     section_id: promotion_section
     title: Looking for bespoke development?
