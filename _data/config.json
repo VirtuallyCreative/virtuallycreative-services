@@ -27,7 +27,7 @@
         {
             "title": "self(hosting)",
             "url": "https://hosting.virtuallycreative.ca",
-            "style": "primary",
+            "style": "link",
             "arrow": false,
             "type": "action"
         }
