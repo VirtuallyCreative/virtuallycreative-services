@@ -52,7 +52,7 @@ sections:
     section_id: promotion_section
     title: Don't get caught by surprise! Free accessibility audit for your website!
     subtitle: Chat with an accessibility specialist now.
-    background_image: images/webhero-right-cta-bg.svg
+    background_image: images/wonderful-giraffe.svg
     cta:
       title: Let's Chat
       url: 'https://calendly.com/virtuallycreative'
