@@ -25,6 +25,7 @@ sections:
     featured_products:
       - products/solopreneur-one.md
       - products/entrepreneur-sub.md
+      - products/shopapreneur-one.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
