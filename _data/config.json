@@ -18,16 +18,16 @@
             "style": "link"
         },
         {
-            "title": "return(home)",
-            "url": "https://virtuallycreative.ca",
-            "style": "primary",
+            "title": "self(hosting)",
+            "url": "https://hosting.virtuallycreative.ca",
+            "style": "link",
             "arrow": false,
             "type": "action"
         },
         {
-            "title": "self(hosting)",
-            "url": "https://hosting.virtuallycreative.ca",
-            "style": "link",
+            "title": "return(home)",
+            "url": "https://virtuallycreative.ca",
+            "style": "primary",
             "arrow": false,
             "type": "action"
         }
