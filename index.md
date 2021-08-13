@@ -61,7 +61,9 @@ sections:
     image: images/services-cta-footer.jpg
 seo:
   title: Services Portal - Virtually(Creative)
-  description: The preview of the Planty theme
+  description: >-
+    Order Virtually(Creative) services or modify ongoing subscriptions using
+    this online services portal.
   extra:
     - name: 'og:type'
       value: website
