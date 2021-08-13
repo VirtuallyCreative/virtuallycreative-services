@@ -89,6 +89,6 @@ seo:
         Order Virtually(Creative) services or modify ongoing subscriptions using
         this online services portal.
     - name: 'twitter:image'
-      value: images/header.jpg
+      value: images/services-cta-footer.jpg
       relativeUrl: true
 ---
