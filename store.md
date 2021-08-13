@@ -18,7 +18,7 @@ sections:
     title: Looking for bespoke development?
     subtitle: 'we do that, too.'
     image: images/services-cta-footer.jpg
-    background_image: images/arrows-light-right-cta-bg.svg
+    background_image: images/wonderful-giraffe.svg
     cta:
       title: Let's Talk
       url: 'https://virtuallycreative.ca/contact'
