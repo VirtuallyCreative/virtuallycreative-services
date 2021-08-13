@@ -85,7 +85,9 @@ seo:
     - name: 'twitter:title'
       value: Services Portal - Virtually(Creative)
     - name: 'twitter:description'
-      value: The preview of the Planty theme
+      value: >-
+        Order Virtually(Creative) services or modify ongoing subscriptions using
+        this online services portal.
     - name: 'twitter:image'
       value: images/header.jpg
       relativeUrl: true
