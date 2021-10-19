@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '6'
-price: 90/mo
+price: '90'
 title: Shopapreneur
 description: "Shopapreneur Websites are for businesses that want to sell products or services online built using WooCommerce.\_All Stores are integrated with PayPal or Stripe as standard gateways. With an added charge we can integrate your\_store with\_almost any other payment gateway\_you require."
 default_thumbnail_image: images/shopapreneur.png
