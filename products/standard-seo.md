@@ -6,7 +6,7 @@ description: >-
   Package, the Standard Site Tune-Up package expands the number of custom
   reports with insight analysis to include additional specialty or product
   check-out flows.
-price: 640/mo
+price: '640'
 order: 1
 featured: false
 seo:
