@@ -7,7 +7,7 @@ description: >-
   learning about the users that use and interact with your site on a daily
   basis. Reporting back the good stuff, we use this data to make informed
   decisions on goal optimization and user experience strategy.
-price: 325/mo
+price: '325'
 order: 0
 featured: false
 seo:
