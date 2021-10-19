@@ -24,7 +24,6 @@ sections:
     light_title: true
     featured_products:
       - products/solopreneur-one.md
-      - products/entrepreneur-sub.md
       - products/shopapreneur-one.md
       - products/bespokpreneur.md
   - type: featured_categories_section
