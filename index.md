@@ -17,15 +17,6 @@ sections:
         url: /store
         arrow: true
         style: primary
-  - type: featured_products_section
-    section_id: best_sellers_section
-    title: Best sellers
-    icon: true
-    light_title: true
-    featured_products:
-      - products/solopreneur-one.md
-      - products/shopapreneur-one.md
-      - products/bespokpreneur.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
