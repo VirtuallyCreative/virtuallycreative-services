@@ -1,7 +1,9 @@
 ---
 id: lorem-ipsum
 title: Entrepreneur
-description: lorem-ipsum
+description: >-
+  Ideal for anyone in the Art & Beauty, Design, Construction and Legal
+  industries.
 price: lorem-ipsum
 order: 0
 featured: false
