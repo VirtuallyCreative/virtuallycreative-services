@@ -15,6 +15,7 @@ seo:
 layout: product
 default_thumbnail_image: images/entrepreneur.jpg
 default_original_image: images/entrepreneur.jpg
+category: category/cactuses.md
 ---
 ## Lorem ipsum
 
