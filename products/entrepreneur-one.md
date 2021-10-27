@@ -6,7 +6,7 @@ description: >-
   industries.
 price: '1650'
 order: 0
-featured: false
+featured: true
 seo:
   title: ''
   description: ''
