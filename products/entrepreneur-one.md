@@ -13,7 +13,7 @@ seo:
   robots: []
   extra: []
 layout: product
-default_thumbnail_image: images/entrepreneur.jpg
+default_thumbnail_image: images/entrepreneur.png
 default_original_image: images/entrepreneur.jpg
 category: category/cactuses.md
 ---
