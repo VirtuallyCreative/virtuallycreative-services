@@ -4,7 +4,7 @@ title: Entrepreneur
 description: >-
   Ideal for anyone in the Art & Beauty, Design, Construction and Legal
   industries.
-price: lorem-ipsum
+price: '1650'
 order: 0
 featured: false
 seo:
