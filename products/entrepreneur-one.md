@@ -13,6 +13,7 @@ seo:
   robots: []
   extra: []
 layout: product
+default_thumbnail_image: images/entrepreneur.jpg
 ---
 ## Lorem ipsum
 
